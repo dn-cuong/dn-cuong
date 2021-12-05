@@ -15,7 +15,10 @@
 - ⚡ Fun fact: Nothing
 - 🦾 "Nothing is impossible"
 
-Skills: C / C++/ Python
+Skills: 
+  🌟C 
+  🌟C++
+  🌟Python
 
 - 🔭 I’m currently working on this page. 
 
