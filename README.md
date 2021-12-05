@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**in4koi/in4koi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here is What I'm Working On!
 
 - 🔭 I’m currently working on FPT high school
 - 🌱 I’m currently learning Algorithms
