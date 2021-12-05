@@ -14,7 +14,7 @@
 - 😄 Pronouns: He/Koi
 - ⚡ Fun fact: Nothing
 - 🦾 "Nothing is impossible"
-
+- 💻 [Algorithm](https://github.com/in4koi/algorithms)
 🌟Skills: C / C++ / Python
 
 
