@@ -1,7 +1,7 @@
 ### Here is What I'm Working On! 👋
 
 
-### Hi there 👋, Nguyen Dang Cuong
+### Nguyen Dang Cuong
 #### "Nothing is impossible"
 !["Nothing is impossible"](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41180a69-dbbc-4bee-aa53-79a7dbf902d1/dcsrueg-b494b4da-d619-4dee-b5fd-766d8ffc55a1.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQxMTgwYTY5LWRiYmMtNGJlZS1hYTUzLTc5YTdkYmY5MDJkMVwvZGNzcnVlZy1iNDk0YjRkYS1kNjE5LTRkZWUtYjVmZC03NjZkOGZmYzU1YTEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Z9Mepve9Mfg2W7MLAh7Xfyr7E2CAQQ5S6ioxdU0jlLI)
 
