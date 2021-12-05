@@ -1,7 +1,7 @@
-### Hi there 👋
+### Here is What I'm Working On! 👋
 
 
-Here is What I'm Working On!
+Profile Check: 
 
 - 🔭 I’m currently working on FPT high school
 - 🌱 I’m currently learning Algorithms
