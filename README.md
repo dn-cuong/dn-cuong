@@ -16,9 +16,7 @@
 - 🦾 "Nothing is impossible"
 
 Skills: 
-  🌟C 
-  🌟C++
-  🌟Python
+  🌟C / C++ / Python
 
 - 🔭 I’m currently working on this page. 
 
