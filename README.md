@@ -13,3 +13,4 @@ Profile Check:
 - ⚡ Fun fact: Nothing
 - 🦾 "Nothing is impossible"
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=in4koi)](https://github.com/anuraghazra/github-readme-stats)
