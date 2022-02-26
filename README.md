@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with someone
 - 💬 Ask me about anything
 - 📫 How to reach me: [Facebook](https://www.facebook.com/in4.koi/) 
-- 😄 Pronouns: He/Koi
+- 😄 Pronouns: He/Cuong
 - ⚡ Fun fact: Nothing
 - 🦾 "Nothing is impossible"
 - 💻 Course:
