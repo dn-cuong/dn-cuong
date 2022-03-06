@@ -11,13 +11,14 @@
 - 👯 I’m looking to collaborate on Algorithms
 - 🤔 I’m looking for help with someone
 - 💬 Ask me about anything
-- 📫 How to reach me: [Facebook](https://www.facebook.com/in4.koi/) 
+- 📫 How to reach me: [Facebook](https://www.facebook.com/in4.koi/), [Leetcode](https://leetcode.com/Cheems_Coder/)
 - 😄 Pronouns: He/Cuong
 - ⚡ Fun fact: Nothing
 - 🦾 "Nothing is impossible"
-- 💻 Course:
+- 💻 Programming:
   -  [Algorithm](https://github.com/in4koi/Algorithms-and-Data-structures)
-
+  -  I do [Leetcode](https://leetcode.com/Cheems_Coder/) everday
+  
 🌟Skills: C / C++ / Python
 
 
