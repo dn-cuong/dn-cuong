@@ -1,3 +1,6 @@
+<img src = "https://images4.alphacoders.com/936/936378.jpg" width="1000" height="500" />
+
+
 <h1 align="center">Hi 👋, I'm Dang Cuong Nguyen</h1>
 <h3 align="center">A Passionate Coder From Viet Nam</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=in4koi&label=Profile%20views&color=0e75b6&style=flat" alt="in4koi" /> </p>
