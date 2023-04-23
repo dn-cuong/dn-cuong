@@ -1,4 +1,6 @@
-### Here is What I'm Working On! 👋
+<h1 align="center">Hi 👋, I'm Dang Cuong Nguyen</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=in4koi&label=Profile%20views&color=0e75b6&style=flat" alt="in4koi" /> </p>
+
 
 
 
