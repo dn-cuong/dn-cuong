@@ -52,10 +52,6 @@
 
 <h2 align="center">My Github Stats and Streak</h2>
 
-
-
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=dn-cuong&show_icons=true&theme=dracula" width=420 height =150 />
- <img class="img" src="https://streak-stats.demolab.com/?user=dn-cuong&theme=dracula" width = 420 height=150/>
-</div>
+![Dang Cuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dn-cuong&show_icons=true&theme=dracula&card_width=100&align=center)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dn-cuong&theme=dracula&card_width=437)](https://git.io/streak-stats)
 
