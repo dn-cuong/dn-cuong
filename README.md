@@ -30,4 +30,4 @@
 
 
 ![Dang Cuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dn-cuong&show_icons=true&theme=dracula&height=200&width=400)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dn-cuong&theme=dracula)](https://git.io/streak-stats&height=200&width=400)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dn-cuong&theme=dracula&height=200&width=400)](https://git.io/streak-stats)
