@@ -50,16 +50,10 @@
 &nbsp;
 
 <h2 align="center">My Github Stats and Streak</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dn-cuong&show_icons=true&theme=dracula&card_width=100" alt="Dang Cuong's GitHub stats">
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dn-cuong&theme=dracula&card_width=437" alt="GitHub Streak"></a>
-</p>
 
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=dn-cuong&show_icons=true&theme=dracula&card_width=100" alt="Dang Cuong's GitHub stats" style="margin-bottom: 10px;" width = 400>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dn-cuong&theme=dracula&card_width=437" alt="GitHub Streak" style="margin-top: 10px;" width = 400></a>
 </div>
