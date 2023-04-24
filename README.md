@@ -1,4 +1,4 @@
-<img src = "https://images4.alphacoders.com/936/936378.jpg" width="1000" height="400" />
+<img src = "https://images4.alphacoders.com/936/936378.jpg" width="1000" height="400"/>
 
 
 <h1 align="center">Hi 👋, I'm Dang Cuong Nguyen</h1>
