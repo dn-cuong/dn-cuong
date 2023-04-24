@@ -14,8 +14,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">Connect with me</h2>
+<p align="center">
 <a href="https://fb.com/nengoilacuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nengoilacuong" height="30" width="40" /></a>
 <a href="https://instagram.com/nengoilacuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nengoilacuong" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cheems_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cheems_coder" height="30" width="40" /></a>
@@ -23,7 +23,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="Center">Languages and Tools</h2>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="ReactJS logo" title="ReactJS" height="25" /></span>
