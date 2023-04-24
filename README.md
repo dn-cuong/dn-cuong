@@ -53,7 +53,7 @@
 <h2 align="center">My Github Stats and Streak</h2>
 
 ![Dang Cuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dn-cuong&show_icons=true&theme=dracula&card_width=300)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dn-cuong&theme=dracula&card_width=450)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dn-cuong&theme=dracula&card_width=430)](https://git.io/streak-stats)
 
 
 
