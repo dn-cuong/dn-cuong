@@ -29,7 +29,7 @@
 
 
 
-![Dang Cuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dn-cuong&show_icons=true&theme=dracula&height=200&width=400)
+![Dang Cuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dn-cuong&show_icons=true&theme=dracula&card_width=480)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dn-cuong&theme=dracula&card_width=480)](https://git.io/streak-stats)
 
 
