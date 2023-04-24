@@ -54,8 +54,8 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dn-cuong&show_icons=true&theme=dracula&card_width=100" alt="Dang Cuong's GitHub stats" style="margin-bottom: 10px;" width = 430>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dn-cuong&theme=dracula&card_width=437" alt="GitHub Streak" style="margin-top: 10px;" width = 430></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dn-cuong&show_icons=true&theme=dracula&card_width=100" alt="Dang Cuong's GitHub stats" style="margin-bottom: 10px;" width = 420>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dn-cuong&theme=dracula&card_width=437" alt="GitHub Streak" style="margin-top: 10px;" width = 420></a>
 </div>
 
 <div style="display: flex; justify-content: center;">
