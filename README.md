@@ -55,7 +55,7 @@
 
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=dn-cuong&show_icons=true&theme=dracula" />
- <img class="img" src="https://streak-stats.demolab.com/?user=dn-cuong&theme=dracula" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=dn-cuong&show_icons=true&theme=dracula&width=350"/>
+ <img class="img" src="https://streak-stats.demolab.com/?user=dn-cuong&theme=dracula&width=350" />
 </div>
 
