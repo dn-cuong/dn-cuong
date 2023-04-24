@@ -49,9 +49,7 @@
 <span><img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
 
-
 <h2 align="center">My Github Stats and Streak</h2>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dn-cuong&show_icons=true&theme=dracula&card_width=100" alt="Dang Cuong's GitHub stats">
 </p>
