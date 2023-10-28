@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Data structures and Algorithm, Python**
 
-- 📫 How to reach me **dangcuong.nguyen801@gmail.com**
+- 📫 How to reach me **cuong.nguyendang801@gmail.com**
 
 
 
