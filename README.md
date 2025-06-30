@@ -3,8 +3,7 @@
 
 <ul>
  <li>I am majoring in Computer Science at University of South Florida</li>
- <li>🌱 I’m currently learning Javascript, React</li>
- <li>💬 Ask me about Data structures and Algorithm, Python</li>
+
  <li>📫 How to reach me cuong.nguyendang801@gmail.com</li>
 
 </ul>
