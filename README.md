@@ -7,3 +7,6 @@
  <li>📫 How to reach me cuong.nguyendang801@gmail.com</li>
 
 </ul>
+
+
+![snake gif](https://github.com/dn-cuong/YOUR_USERNAME/blob/output/github-snake-dark.svg)
