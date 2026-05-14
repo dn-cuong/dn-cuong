@@ -1,5 +1,5 @@
+<img width="1584" height="396" alt="White Minimalist Personal Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/8b1a0582-4d27-4699-b598-45641447426a" />
 
-<h3>Hi, I'm Dang Cuong</h3>
 
 <ul>
  <li>I am majoring in Computer Science at University of South Florida</li>
