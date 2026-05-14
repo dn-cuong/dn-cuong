@@ -9,4 +9,4 @@
 </ul>
 
 
-![snake gif](https://github.com/dn-cuong/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/dn-cuong/dn-cuong/blob/output/github-snake-dark.svg)
