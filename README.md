@@ -65,6 +65,8 @@
   </tr>
 
 </table>
+
+
 ### Tech Stack
 | Group | Skills |
 |------|--------|
