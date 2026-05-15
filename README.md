@@ -28,7 +28,7 @@
     </td>
     <td align="center">Tampa, FL</td>
     <td align="center">Apr 2026 – Present</td>
-    <td align="center"><code>Python</code> <code>Multithreading</code> <code>GNSS</code> <code>INS</code> <code>CAN</code> <code>Foxglove</code></td>
+    <td align="center"><code>Python</code> <code>C++</code> <code>Multithreading</code> <code>GNSS</code> <code>INS</code> <code>CAN</code> <code>Foxglove</code></td>
   </tr>
 
   <tr>
@@ -39,7 +39,7 @@
     </td>
     <td align="center">Tampa, FL</td>
     <td align="center">Sep 2025 – Present</td>
-    <td align="center"><code>Python</code> <code>BeautifulSoup</code> <code>ETL</code> <code>Data Pipeline</code></td>
+    <td align="center"><code>Python</code> <code>BeautifulSoup</code> <code>ETL</code> <code>Selenium</code></td>
   </tr>
 
   <tr>
@@ -50,7 +50,7 @@
     </td>
     <td align="center">Tampa, FL</td>
     <td align="center">Jun – Sep 2025</td>
-    <td align="center"><code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>OpenAI</code></td>
+    <td align="center"><code>Java Spring Boot</code> <code>PostgreSQL</code> <code>React</code> <code>Restful API</code> <code>TypeScript</code> <code>FastAPI</code> <code>ChatGPT API</code> <code>JUnit</code></td>
   </tr>
 
   <tr>
