@@ -154,7 +154,7 @@
 <td align="center" valign="top" width="33%">
 
 #### 🧩 Neetcode Journey
-<em>Collection of solved NeetCode problems with optimized solutions, patterns, and algorithm practice tracking.</em>
+<em>Collection of solved NeetCode problems with algorithm practice tracking.</em>
 
 <br>
 
