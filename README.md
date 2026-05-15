@@ -78,11 +78,11 @@
 
 <br>
 
-`React` `Node.js` `Express` `MongoDB` `OpenAI API`
+`React` `Node.js` `Express.js` `MongoDB` `OpenAI API`
 
 <br>
 
-[🔗 GitHub](#)
+🔗 [GitHub](https://github.com/dn-cuong/crack-that-interview) [Demo](https://crack-that-interview-nu.vercel.app/)
 
 </td>
 
@@ -93,11 +93,11 @@
 
 <br>
 
-`React` `Node.js` `Express` `MySQL` `JWT`
+`React` `Node.js` `Express.js` `MySQL` `JWT`
 
 <br>
 
-[🔗 GitHub](#)
+🔗 [GitHub](https://github.com/dn-cuong/task_manager) [Demo](https://task-manager-beta-ivory.vercel.app/login)
 
 </td>
 
@@ -108,11 +108,11 @@
 
 <br>
 
-`React` `Node.js` `Express` `MySQL`
+`React` `Node.js` `Express` `MySQL` `Express.js`
 
 <br>
 
-[🔗 GitHub](#)
+🔗 [GitHub](https://github.com/dn-cuong/GameSpot-Booking)
 
 </td>
 
