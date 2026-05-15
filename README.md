@@ -180,7 +180,7 @@
 
 ### Github Stats
 <p align="left">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dn-cuong&theme=onedark&hide_border=true&border_radius=10" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dn-cuong&theme=onedark&hide_border=true&border_radius=10&card_width=450" />
   <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dn-cuong&theme=onedark&hide_border=true&layout=compact&card_width=450&langs_count=8&border_radius=10" />
 </p>
 
