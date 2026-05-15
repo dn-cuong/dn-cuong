@@ -151,7 +151,20 @@
 
 </td>
 
-<td></td>
+<td align="center" valign="top" width="33%">
+
+#### 🧩 Neetcode Journey
+<em>Collection of solved NeetCode problems with optimized solutions, patterns, and algorithm practice tracking.</em>
+
+<br>
+
+`Python` `Data Structures` `Algorithms` `LeetCode` `NeetCode Patterns`
+
+<br>
+
+🔗 [GitHub](https://github.com/dn-cuong/neetcode-journey)
+
+</td>
 
 </tr>
 </table>
