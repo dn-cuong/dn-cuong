@@ -178,5 +178,12 @@
 | Databases & Cloud | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)|
 | Tools & DevOps | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/GPT--4_API-412991?style=for-the-badge&logo=openai&logoColor=white)|
 
+### Github Stats
+<p align="left">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dn-cuong&theme=onedark&hide_border=true&border_radius=10" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dn-cuong&theme=onedark&hide_border=true&layout=compact&card_width=450&langs_count=8&border_radius=10" />
+</p>
+
+
 ### Contribution Snake
 ![snake gif](https://github.com/dn-cuong/dn-cuong/blob/output/github-snake-dark.svg)
