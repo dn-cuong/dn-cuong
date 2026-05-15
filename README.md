@@ -10,7 +10,61 @@
 </ul>
 
 ### Work Experience
+<table align="center" style="border-collapse: separate; border-spacing: 0; width: 100%; max-width: 1000px; border-radius: 12px; overflow: hidden;">
 
+  <tr style="background-color:#0d1117; color:white;">
+    <th align="center">Role</th>
+    <th align="center">Company</th>
+    <th align="center">Location</th>
+    <th align="center">Period</th>
+    <th align="center">Skills</th>
+  </tr>
+
+  <tr>
+    <td align="center">Software Engineering Research Fellow</td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/150466086?s=200&v=4" height="18" style="border-radius:4px;"/>
+      RANCS Lab
+    </td>
+    <td align="center">Tampa, FL</td>
+    <td align="center">Apr 2026 – Present</td>
+    <td align="center"><code>Python</code> <code>Multithreading</code> <code>GNSS</code> <code>INS</code> <code>CAN</code> <code>Foxglove</code></td>
+  </tr>
+
+  <tr>
+    <td align="center">Research Assistant</td>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/v2/D560BAQEE2aRoExzAYA/company-logo_200_200/B56ZjM6N.9HAAI-/0/1755784470855?e=1780531200&v=beta&t=0DL5uG-u8SRXQhmSnAmDsRAbTQNZBql2Rf7q9xJsZC4" height="18" style="border-radius:4px;"/>
+      Connected Social Artificial Intelligence Lab 
+    </td>
+    <td align="center">Tampa, FL</td>
+    <td align="center">Sep 2025 – Present</td>
+    <td align="center"><code>Python</code> <code>BeautifulSoup</code> <code>ETL</code> <code>Data Pipeline</code></td>
+  </tr>
+
+  <tr>
+    <td align="center">Software Engineering Intern</td>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/v2/D4E0BAQHS1oLJV3G5VQ/company-logo_100_100/B4EZeU5m7mHcAQ-/0/1750549819490?e=1780531200&v=beta&t=umIxoAhGPghoF9CiBn1U-g2Mgm4WwcKTlcFS8NBbRyw" height="18" style="border-radius:4px;"/>
+      The VietLocal
+    </td>
+    <td align="center">Tampa, FL</td>
+    <td align="center">Jun – Sep 2025</td>
+    <td align="center"><code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>OpenAI</code></td>
+  </tr>
+
+  <tr>
+    <td align="center">Software Engineering Intern</td>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEcKvOSgVqYsQ/company-logo_200_200/B4DZdna0zrHAAI-/0/1749786775969?e=1780531200&v=beta&t=4psf4wHi57V3XMPmzGuz-muLFX4G8iFDzJd-09vXiRY" height="18" style="border-radius:4px;"/>
+      Envietra
+    </td>
+    <td align="center">Remote</td>
+    <td align="center">May – Aug 2024</td>
+    <td align="center"><code>Docker</code> <code>GitHub Actions</code> <code>AWS Lambda</code> <code>SQL</code> <code>Redis</code></td>
+  </tr>
+
+</table>
 ### Tech Stack
 | Group | Skills |
 |------|--------|
