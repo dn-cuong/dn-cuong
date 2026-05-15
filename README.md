@@ -158,11 +158,11 @@
 
 <br>
 
-`Python` `Data Structures` `Algorithms` `LeetCode` `NeetCode Patterns`
+`Python` `Data Structures` `Algorithms` `LeetCode`
 
 <br>
 
-🔗 [GitHub](https://github.com/dn-cuong/neetcode-journey)
+🔗 [GitHub](https://github.com/dn-cuong/neetcode-submissions)
 
 </td>
 
