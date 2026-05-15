@@ -88,7 +88,7 @@
 
 <td align="center" valign="top" width="33%">
 
-#### 📋 Task Manager 
+#### 📋 Task Manager
 <em>Full-stack productivity app for creating, organizing, and tracking tasks with authentication.</em>
 
 <br>
@@ -103,12 +103,12 @@
 
 <td align="center" valign="top" width="33%">
 
-#### 🎮 GameSpot Booking System 
+#### 🎮 GameSpot Booking System
 <em>Full-stack system for booking gaming PCs with seat map selection and reservation logic.</em>
 
 <br>
 
-`React` `Node.js` `Express` `MySQL` `Express.js`
+`React` `Node.js` `Express` `MySQL`
 
 <br>
 
@@ -117,7 +117,45 @@
 </td>
 
 </tr>
+
+
+<tr>
+
+<td align="center" valign="top" width="33%">
+
+#### 🔥 Smoke Detection System
+<em>IoT-based system using gas sensor to detect smoke and send real-time alerts to server for location monitoring.</em>
+
+<br>
+
+`C++` `Arduino` `MQ-6 Sensor` `HTML` `CSS` `JavaScript` `Node.js`
+
+<br>
+
+🔗 [GitHub](https://github.com/dn-cuong/smoke-detector)
+
+</td>
+
+<td align="center" valign="top" width="33%">
+
+#### 🎧 Cornfield Website
+<em>Educational platform with podcast learning system and token-based reward incentive to encourage continuous learning.</em>
+
+<br>
+
+`HTML` `CSS` `Node.js` `Express.js` `MongoDB` `JWT` `EJS`
+
+<br>
+
+🔗 [GitHub](https://github.com/dn-cuong/Cornfield-Website)
+
+</td>
+
+<td></td>
+
+</tr>
 </table>
+
 
 ### Tech Stack
 | Group | Skills |
