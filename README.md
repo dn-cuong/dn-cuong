@@ -66,6 +66,58 @@
 
 </table>
 
+### Projects
+
+<table>
+<tr>
+
+<td align="center" valign="top" width="33%">
+
+#### 🧠 Crack That Interview
+<em>Full-stack AI-powered platform for generating interview questions and improving coding interview skills.</em>
+
+<br>
+
+`React` `Node.js` `Express` `MongoDB` `OpenAI API`
+
+<br>
+
+[🔗 GitHub](#)
+
+</td>
+
+<td align="center" valign="top" width="33%">
+
+#### 📋 Task Manager 
+<em>Full-stack productivity app for creating, organizing, and tracking tasks with authentication.</em>
+
+<br>
+
+`React` `Node.js` `Express` `MySQL` `JWT`
+
+<br>
+
+[🔗 GitHub](#)
+
+</td>
+
+<td align="center" valign="top" width="33%">
+
+#### 🎮 GameSpot Booking System 
+<em>Full-stack system for booking gaming PCs with seat map selection and reservation logic.</em>
+
+<br>
+
+`React` `Node.js` `Express` `MySQL`
+
+<br>
+
+[🔗 GitHub](#)
+
+</td>
+
+</tr>
+</table>
 
 ### Tech Stack
 | Group | Skills |
