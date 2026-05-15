@@ -139,7 +139,7 @@
 <td align="center" valign="top" width="33%">
 
 #### 🎧 Cornfield Website
-<em>Educational platform with podcast learning system and token-based reward incentive to encourage continuous learning.</em>
+<em>Educational platform with podcast learning system and token-based reward incentive.</em>
 
 <br>
 
