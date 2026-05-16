@@ -32,7 +32,7 @@
   </tr>
 
   <tr>
-    <td align="center">Research Assistant</td>
+    <td align="center">Student Researcher & Developer</td>
     <td align="center">
       <img src="https://media.licdn.com/dms/image/v2/D560BAQEE2aRoExzAYA/company-logo_200_200/B56ZjM6N.9HAAI-/0/1755784470855?e=1780531200&v=beta&t=0DL5uG-u8SRXQhmSnAmDsRAbTQNZBql2Rf7q9xJsZC4" height="18" style="border-radius:4px;"/>
       Connected Social Artificial Intelligence Lab 
