@@ -3,7 +3,7 @@
 
 ### Introduction
 <ul>
- <li>I am majoring in Computer Science at University of South Florida</li>
+ <li>I am Caden, majoring in Computer Science at University of South Florida</li>
 
  <li>📫 How to reach me: cadennguyen801@gmail.com</li>
 
