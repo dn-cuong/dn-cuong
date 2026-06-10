@@ -3,7 +3,7 @@
 
 ### Introduction
 <ul>
- <li>I'm Caden Nguyen, majoring in Computer Science at University of South Florida</li>
+ <li>I'm Caden, majoring in Computer Science at University of South Florida</li>
 
  <li>📫 How to reach me: cadennguyen801@gmail.com</li>
 
