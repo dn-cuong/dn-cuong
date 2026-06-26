@@ -34,7 +34,7 @@
   <tr>
     <td align="center">Student Researcher & Developer</td>
     <td align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D560BAQEE2aRoExzAYA/company-logo_200_200/B56ZjM6N.9HAAI-/0/1755784470855?e=1780531200&v=beta&t=0DL5uG-u8SRXQhmSnAmDsRAbTQNZBql2Rf7q9xJsZC4" height="18" style="border-radius:4px;"/>
+      <img src="https://media.licdn.com/dms/image/v2/D560BAQEE2aRoExzAYA/company-logo_200_200/B56ZjM6N.9HAAI-/0/1755784470855?e=1784160000&v=beta&t=xpfz5TaBG6TpiNrT2xqZEplEuLlh9suD_t63FlgdXrQ" height="18" style="border-radius:4px;"/>
       Connected Social Artificial Intelligence Lab 
     </td>
     <td align="center">Tampa, FL</td>
@@ -45,7 +45,7 @@
   <tr>
     <td align="center">Software Engineering Intern</td>
     <td align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D4E0BAQHS1oLJV3G5VQ/company-logo_100_100/B4EZeU5m7mHcAQ-/0/1750549819490?e=1780531200&v=beta&t=umIxoAhGPghoF9CiBn1U-g2Mgm4WwcKTlcFS8NBbRyw" height="18" style="border-radius:4px;"/>
+      <img src="https://media.licdn.com/dms/image/v2/D4E0BAQHS1oLJV3G5VQ/company-logo_200_200/B4EZeU5m7mHcAI-/0/1750549819490?e=1784160000&v=beta&t=-cIVWgE4SbRG6ij0KdSZ4UqCvbg2r8oGSR3ufUFEygk" height="18" style="border-radius:4px;"/>
       The VietLocal
     </td>
     <td align="center">Tampa, FL</td>
@@ -56,7 +56,7 @@
   <tr>
     <td align="center">Software Engineering Intern</td>
     <td align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEcKvOSgVqYsQ/company-logo_200_200/B4DZdna0zrHAAI-/0/1749786775969?e=1780531200&v=beta&t=4psf4wHi57V3XMPmzGuz-muLFX4G8iFDzJd-09vXiRY" height="18" style="border-radius:4px;"/>
+      <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEcKvOSgVqYsQ/company-logo_200_200/B4DZdna0zrHAAI-/0/1749786775969?e=1784160000&v=beta&t=lSCOSbfBvESQ3jQ77ZU2QzNz8n6aRvpCpHMIHCPb8hE" height="18" style="border-radius:4px;"/>
       Envietra
     </td>
     <td align="center">Remote</td>
