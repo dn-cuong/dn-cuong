@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="White Minimalist Personal Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/8b1a0582-4d27-4699-b598-45641447426a" />
+<img width="1584" height="396" alt="White Minimalist Personal Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/bd03c461-10a5-41bb-940a-cd51114bd776" />
+
 
 
 ### Introduction
